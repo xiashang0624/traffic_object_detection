@@ -1,1 +1,2 @@
-# traffic_object_detection
+# Detection and classification of objects during driving
+
